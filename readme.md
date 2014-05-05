@@ -161,4 +161,4 @@ Extensions methods can also take parameters. They don't break encapsulation, bec
 
 -----
 
-[![Build Status](https://secure.travis-ci.org/nette/utils.png?branch=master)](http://travis-ci.org/nette/utils)
+[![Build Status](https://secure.travis-ci.org/nette/utils.png?branch=v2.2)](http://travis-ci.org/nette/utils)
